@@ -43,9 +43,9 @@ Para realizar os testes da aplicação foram configuradas as seguintes portas pa
 
 ```bash
     # Clonar o repositório
-    $ git clone https://github.com/RomuloCado/compassouol
+    $ git clone https://github.com/RomuloCado/compassouol_docker
     # Entrar no diretório
-    $ cd compassouol
+    $ cd compassouol_docker
     # Realizar o build do arquivo .jar da aplicação
     $ mvn clean package
     # Realizar o build do banco de dados e da api
